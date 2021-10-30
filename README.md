@@ -3,7 +3,7 @@
 - 🔭 Estou reclando meus conhecimentos em HTML, Css e JavaScript
 - 🌱 passei varios anos sem atuar na area por isso estou reciclando-me
 - 👯 criando paginas imaginarias.
-- 🤔 conto com a ajuda de todos e futuramente terei imenso prazer e ajudar novos amigos.
+- 🤔 conto com a ajuda de todos e futuramente terei imenso prazer e ajudar novos .
 
 <div align="center">
   <a href="https://github.com/NeioBomAtk">
