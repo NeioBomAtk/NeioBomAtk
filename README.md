@@ -30,4 +30,4 @@
   
 </div>
     
-   ![Snake animation](https://github.com/NeioBomAtk/blob/output/github-contribuition-grid-snake.svg)
+ ![Snake animation](https://github.com/NeioBomAtk/NeioBomAtk/blob/output/github-contribuition-grid-snake.svg)
