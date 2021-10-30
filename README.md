@@ -2,7 +2,7 @@
 <h1> Olá eu sou o Nei, codinome (Nei o Bom Atk). </h1>
 
 
-- 🔭 Estou reclando meus conhecimentos em HTML, Css, JavaScript e Pyton
+- 🔭 Estou reclando meus conhecimentos em HTML, Css, JavaScript e Python 3
 - 🌱 passei varios anos sem atuar na area por isso estou reciclando-me
 - 👯 criando paginas imaginarias.
 - 🤔 conto com a ajuda de todos e futuramente terei imenso prazer e ajudar novos amigos.
