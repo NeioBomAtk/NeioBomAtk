@@ -30,4 +30,4 @@
   
 </div>
     [![readme](https://github-readme-stats.vercel.app/api/pin/?username=NeioBomAtk&repo=NeioBomAtk&theme=react)](https://github.com/NeioBomAtk/NeioBomAtk)
-
+   ![Snake animation](https://github.com/NeioBomAtk/blob/output/github-contribuition-grid-snake.svg)
