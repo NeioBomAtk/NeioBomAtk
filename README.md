@@ -17,6 +17,7 @@
   <img align="center" alt="NeioBomAtk-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="NeioBomAtk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="NeioBomAtk-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="NeioBomAtk-github" height="30" width="40" src="https://avatars.githubusercontent.com/in/15368?s=64&v=4/devicons/devicon/master/icons/github/github-original.svg">
   <img align="right" alt="NeioBomAtk"height="150" style="border-radius:50px;" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
   
